@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "expo-linear-gradient": "^15.0.7",
+    "lucide-react-native": "^0.544.0"
+  }
+}
